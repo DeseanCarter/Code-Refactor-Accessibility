@@ -1,2 +1,3 @@
 # Code-Refactor-Accessibility
-A homework assignment teaching me the importance of accessibility. 
+A homework assignment teaching the importance of accessibility. 
+Semantic HTML elements were added to help the user experience and to improve SEO.
